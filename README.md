@@ -12,6 +12,9 @@
 <p width="960" style="padding-right:40px;" align="left" >SG</p>
 <p width="960" style="padding-right:40px;" align="left" >client side data fetching</p>
 
+# summary of project
+In this project i worked on a perfomance dashboard of a company to manage performance of section and introduction sections of the compnay . i made every page with a data fectching (1-clientside data fetching, 2-SSR, 3-SSG) method to test all of them
+
 # overview of project
 
 <a href="https://www.youtube.com/watch?v=k6psCnF3T34" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/003/399/771/original/youtube-icon-editorial-free-vector.jpg" 
